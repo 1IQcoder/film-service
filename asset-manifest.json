@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1IQcoder/film-service.git/static/css/main.e693b4e7.css",
+    "main.js": "/1IQcoder/film-service.git/static/js/main.f8a0c0cf.js",
+    "index.html": "/1IQcoder/film-service.git/index.html",
+    "main.e693b4e7.css.map": "/1IQcoder/film-service.git/static/css/main.e693b4e7.css.map",
+    "main.f8a0c0cf.js.map": "/1IQcoder/film-service.git/static/js/main.f8a0c0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e693b4e7.css",
+    "static/js/main.f8a0c0cf.js"
+  ]
+}
