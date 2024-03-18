@@ -2,7 +2,7 @@
   "name": "film-service",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/1IQcoder/film-service.git",
+  "homepage": "https://1iqcoder.github.io/film-service/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
