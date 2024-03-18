@@ -1,0 +1,41 @@
+.button{
+    width: 250px;
+    height: 50px;
+    background-color: green;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 30px;
+    transition-duration: 0.2s;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

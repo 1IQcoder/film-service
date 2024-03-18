@@ -1,0 +1,33 @@
+.input{
+    width: 250px;
+    height: 30px;
+    border: solid green;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    margin-top: 5px;
+}
+
+.inputBlock{
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

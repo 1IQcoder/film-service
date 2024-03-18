@@ -37,14 +37,35 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
+#root{
+	font-family: Arial, sans-serif;
+	min-width: 100%;
+	min-height: 100%;
+	display: flex;
+	justify-content: center;
+	background-color: rgba(20, 19, 19, 1);
+}
 
+.App{
+	width: 800px;
+	background-color: rgba(35, 35, 35, 1);
+}
 
+.block_wrapper{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
 
+.text1{
+	font-size: 17px;
+	color: rgb(255, 255, 255);
+}
 
-
-
-
-
+.title1{
+	font-size: 25px;
+	color: rgb(255, 255, 255);
+}
 
 
 
