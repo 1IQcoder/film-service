@@ -1,13 +1,15 @@
-import React, { useState, useRef } from 'react'
 import './styles/App.css'
-import AddActor from './components/AddActor/AddActor';
+import { BrowserRouter } from "react-router-dom";
+import Header from './components/Header/Header';
+import AppRouter from './components/AppRouter';
 
 function App() {
 
   return (
-    <div className="App">
-      <AddActor></AddActor>
-    </div>
+    <BrowserRouter>
+      <Header />
+      <AppRouter />
+    </BrowserRouter>
   );
 }
 
